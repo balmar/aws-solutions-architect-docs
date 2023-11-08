@@ -1,0 +1,1 @@
+Simple Email Transfer Protocol is used to transfer emails across the internet.

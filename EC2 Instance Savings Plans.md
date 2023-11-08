@@ -1,0 +1,4 @@
+**EC2 Instance Savings Plans** provide the lowest prices, offering savings up to 72% in exchange for commitment to usage of individual instance families in a [[Region]] (e.g. M5 usage in N. Virginia). This automatically reduces your cost on the selected instance family in that [[Region]] regardless of [[AZ]], size, [[OS]] or tenancy. [[EC2 Instance Savings Plans]] give you the flexibility to change your usage between [[Elastic Compute Cloud|Instances]] within a family in that region. For example, you can move from c5.xlarge running Windows to c5.2xlarge running [[Linux]] and automatically benefit from the [[Savings Plans]] prices.
+
+### Source
+https://aws.amazon.com/savingsplans/faq/
