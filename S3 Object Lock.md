@@ -1,4 +1,4 @@
-Use *S3 Object Lock* to store objects using [[WORM model]]. It helps prevent users from deleting or modyfing [[S3 Object|S3 Objects]] or entire [[S3 Bucket]].
+Use *S3 Object Lock* to store objects using [[WORM model]]. It helps prevent users from deleting or modifyng [[S3 Object|S3 Objects]] or entire [[S3 Bucket]].
 ### Modes
 #### Governance mode
 Users with a specific permissions are able to delete or overwrite an object version or alter it's lock settings.
@@ -7,7 +7,7 @@ This protects objects against being deleted by most users.
 #### Compliance mode
 Protected [[S3 Object]] cannot be overwritten or deleted by any user, including the [[Root Account]]. The retention of an object locked in *Compliance mode* can't be changed.
 
-Basically the *Compliance mode* ensures the [[S3 Object]] remains unchanged until the of the retention period.
+Basically the *Compliance mode* ensures the [[S3 Object]] remains unchanged until the end of the retention period.
 ### Retention period
 Protects an [[S3 Object]] for a fixed amount of time. [[AWS]] stores a timestamp inside of the object version's metadata which indicates the end of the retention period.
 

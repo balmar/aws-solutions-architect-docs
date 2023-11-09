@@ -1,8 +1,8 @@
 #S3 #Storage 
 
-Keeping the whole history of the file in [[S3]].
+Keeping the whole history of the file in [[Simple Storage Service|S3]].
 
-* All versions are kept in [[S3]],
+* All versions are kept in [[Simple Storage Service|S3]],
 * Great backup tool,
 * Cannot be disabled, only suspended,
 * Can be used in conjunction with [[Lifecycle management]],

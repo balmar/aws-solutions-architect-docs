@@ -6,7 +6,7 @@ Offers tools for quickly building full-stack apps.
  > When Managed SSR in AWS, easy mobile dev and full-stack apps are mentioned in the exam.
 #### Amplify Hosting
 Supports frameworks for common SPA. Supports Gatsby and Hugo static site generators.
-Allows for setting up different enviroments.
+Allows for setting up different environments.
 It has [[SSR]]
 #### Amplify Studio
 Easy authentication and authorization within your apps.

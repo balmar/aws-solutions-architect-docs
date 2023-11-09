@@ -5,7 +5,7 @@ See:
 
 > [!TIP] You'll be given scenarios that ask you to pick a solution for data migration
 >  Pay attention to restrictions in the situation. 
-### Why snow?
+### When snow?
 * Large amount of data
 * Not being able to transfer over internet
 * Very slow connection

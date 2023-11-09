@@ -4,7 +4,7 @@ aliases:
 ---
 #IdentityManagement 
 
-*IAM* allows you to manage [[AWS Account|users]] and their level of access to the AWS console. It is a global service. It is not affected by [[Region]] or [[Availability Zone|AZ]].
+*IAM* allows you to manage [[AWS Account|users]] and their level of access to the AWS console. It is a global service. It is global and not affected by [[Region]] or [[Availability Zone|AZ]].
 
 * Create [[AWS Account|users]] and grant permissions
 * Create [[Group|groups]] and [[IAM Role|roles]]

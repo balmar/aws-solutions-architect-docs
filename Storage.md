@@ -1,7 +1,7 @@
 #Fundamentals 
 A safe place to save your information.
 ### Related
-[[S3]]
+[[Simple Storage Service|S3]]
 [[Elastic Block Storage|EBS]]
 [[Elastic File System]]
 ### Source

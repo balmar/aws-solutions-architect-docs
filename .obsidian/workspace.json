@@ -8,343 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9256ce2a94e1ee26",
+            "id": "c882bf603c1a0d4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Question 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37d05f4c9a9df3a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 58.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c29a1d111524a036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3c0676982cda131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd57a0583024b6a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68cd9e08436d3c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "486040e97edbb1db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 41.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe99e31b26916741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 43.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b037cb49d6e9f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 45.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff44441caad115af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 51.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d113d7e31dd3306",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 52.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3378fd8fccde6ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Question 53.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe42f1da6b0f4afc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Identity and Access Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18f7f841146b8b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Athena.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1ca650aedeae4c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Data Pipeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9ed9e6ddfbf8b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Managed Streaming for Apache Kafka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "269c1b89e00f093b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14. Big Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebb0964db694a5f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Container.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f61f02fb313490cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elastic Kubernetes Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73cadf24210582b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EKS Anywhere vs EKS Distro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "732441ef401367df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS AppSync.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "864f4b623682ec7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16. Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6e55a6201452c48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16. Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a05d08430d6f9bb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Parameter Store.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61babd65f84ac1f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secrets Manager vs Parameter Store.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fcd9a936f204dc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CloudFront.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f127ce703efca89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18. Caching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09d20b82f77808e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Global Accelerator.md",
+                "file": "Amazon ElastiCache.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 27
+        ]
       }
     ],
     "direction": "vertical"
@@ -410,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Global Accelerator.md",
+                "file": "Amazon ElastiCache.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -427,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Global Accelerator.md",
+                "file": "Amazon ElastiCache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -450,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Global Accelerator.md"
+                "file": "Amazon ElastiCache.md"
               }
             }
           },
@@ -480,45 +155,45 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "09d20b82f77808e3",
+  "active": "c882bf603c1a0d4b",
   "lastOpenFiles": [
+    "Redis.md",
+    "AWS Global Accelerator.md",
+    "RDP.md",
     "18. Caching.md",
-    "DynamoDB Accelerator.md",
-    "Amazon ElastiCache.md",
-    "Content Delivery Network.md",
-    "CloudFront.md",
-    "AWS Systems Manager.md",
-    "17. Automation.md",
-    "Elastic Beanstalk.md",
-    "Infrastructure as Code.md",
-    "AWS CloudFormation.md",
-    "AWS Security Hub.md",
-    "16. Security.md",
-    "AWS Network Firewall.md",
-    "Amazon Detective.md",
-    "Amazon Cognito.md",
-    "AWS Artifact.md",
-    "AWS Audit Manager.md",
-    "AWS Certificate Manager.md",
-    "S3 Presigned URLs or Cookies.md",
-    "4. Simple Storage Service (S3).md",
-    "Amazon Secrets Manager.md",
-    "Secrets Manager vs Parameter Store.md",
-    "Amazon Parameter Store.md",
-    "AWS Key Management Service.md",
-    "CloudHSM.md",
-    "Amazon Inspector.md",
+    "Amazon Pinpoint.md",
+    "21. Frontend Web and Mobile.md",
+    "23. Media.md",
+    "22. Machine Learning.md",
+    "Amazon Comprehend.md",
+    "Textract.md",
+    "Amazon SageMaker.md",
+    "Amazon Lex.md",
+    "Amazon Polly.md",
+    "AWS Amplify.md",
+    "20. Migrations.md",
+    "AWS Server Migration Service.md",
+    "AWS Database Migration Service.md",
+    "AWS Application Discovery Service.md",
+    "AWS Application Migration Service.md",
+    "AWS Migration Hub.md",
+    "AWS Transfer Family.md",
+    "AWS DataSync.md",
+    "Storage Gateway.md",
+    "Snow Family.md",
+    "19. Governance.md",
+    "AWS Well-Architected Tool.md",
+    "Pasted image 20231108235624.png",
+    "Pasted image 20231108235952.png",
     "Bez nazwy.canvas",
     "Pasted image 20231109000204.png",
     "Pasted image 20231109000136.png",
     "Pasted image 20231109000107.png",
     "Pasted image 20231109000046.png",
     "Pasted image 20231109000018.png",
-    "Pasted image 20231108235952.png",
     "Pasted image 20231108235921.png",
     "Pasted image 20231108235854.png",
     "Pasted image 20231108235820.png",
-    "Pasted image 20231108235743.png",
     "Templates",
     "Governance"
   ]
