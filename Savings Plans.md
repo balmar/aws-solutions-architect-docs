@@ -5,7 +5,7 @@
 * [[Compute Savings Plans]], 
 	* [[Elastic Compute Cloud|EC2]], 
 	* [[Lambda]], 
-	* and [[Fargate]]
+	* and [[Amazon Fargate]]
 * [[EC2 Instance Savings Plans]],
 	* [[Elastic Compute Cloud|EC2]]
 * [[SageMaker Savings Plans]] 

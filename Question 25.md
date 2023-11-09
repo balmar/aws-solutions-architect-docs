@@ -5,4 +5,4 @@
 [[AMI]]
 [[EC2 Auto-Scaling|Auto-Scaling]]
 [[AWS Batch]]
-[[Amazon EKS]]
+[[Elastic Kubernetes Service]]

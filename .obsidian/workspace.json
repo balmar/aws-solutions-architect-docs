@@ -181,14 +181,170 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Pinpoint.md",
+                "file": "AWS Data Pipeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9ed9e6ddfbf8b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Managed Streaming for Apache Kafka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "269c1b89e00f093b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14. Big Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebb0964db694a5f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f61f02fb313490cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic Kubernetes Service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73cadf24210582b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EKS Anywhere vs EKS Distro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "732441ef401367df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS AppSync.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "864f4b623682ec7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16. Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6e55a6201452c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16. Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a05d08430d6f9bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazon Parameter Store.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61babd65f84ac1f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secrets Manager vs Parameter Store.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fcd9a936f204dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CloudFront.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f127ce703efca89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18. Caching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09d20b82f77808e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Global Accelerator.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -217,7 +373,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "warm",
+                "query": "event-driven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Pinpoint.md",
+                "file": "AWS Global Accelerator.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -271,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Pinpoint.md",
+                "file": "AWS Global Accelerator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -294,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Pinpoint.md"
+                "file": "AWS Global Accelerator.md"
               }
             }
           },
@@ -324,34 +480,35 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "c1ca650aedeae4c7",
+  "active": "09d20b82f77808e3",
   "lastOpenFiles": [
-    "Amazon OpenSearch Service.md",
-    "Amazon Neptune.md",
-    "Amazon MQ.md",
-    "Amazon Managed Service for Prometheus.md",
-    "Amazon Managed Grafana.md",
-    "Amazon Macie.md",
-    "Amazon Lex.md",
-    "Amazon Kinesis Data Analytics.md",
-    "Amazon Keyspaces.md",
-    "Amazon Fraud Detector.md",
-    "Amazon Forecast.md",
+    "18. Caching.md",
+    "DynamoDB Accelerator.md",
     "Amazon ElastiCache.md",
-    "Amazon EventBridge.md",
-    "Amazon Elastic Transcoder.md",
+    "Content Delivery Network.md",
+    "CloudFront.md",
+    "AWS Systems Manager.md",
+    "17. Automation.md",
+    "Elastic Beanstalk.md",
+    "Infrastructure as Code.md",
+    "AWS CloudFormation.md",
+    "AWS Security Hub.md",
+    "16. Security.md",
+    "AWS Network Firewall.md",
     "Amazon Detective.md",
-    "Amazon Comprehend.md",
-    "Amazon Aurora.md",
-    "Amazon Athena.md",
-    "Advanced Message Queueing Protocol.md",
-    "Cloud Backend Models.md",
-    "Serverless.md",
-    "Amazon AppFlow.md",
-    "Active Directory.md",
-    "ACID Principle.md",
-    "Access Control List.md",
-    "Savings Plans.md",
+    "Amazon Cognito.md",
+    "AWS Artifact.md",
+    "AWS Audit Manager.md",
+    "AWS Certificate Manager.md",
+    "S3 Presigned URLs or Cookies.md",
+    "4. Simple Storage Service (S3).md",
+    "Amazon Secrets Manager.md",
+    "Secrets Manager vs Parameter Store.md",
+    "Amazon Parameter Store.md",
+    "AWS Key Management Service.md",
+    "CloudHSM.md",
+    "Amazon Inspector.md",
+    "Bez nazwy.canvas",
     "Pasted image 20231109000204.png",
     "Pasted image 20231109000136.png",
     "Pasted image 20231109000107.png",
@@ -362,7 +519,6 @@
     "Pasted image 20231108235854.png",
     "Pasted image 20231108235820.png",
     "Pasted image 20231108235743.png",
-    "Bez nazwy.canvas",
     "Templates",
     "Governance"
   ]

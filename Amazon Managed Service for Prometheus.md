@@ -3,7 +3,7 @@
 ### Main features
 * [[Scaling]] managed by [[AWS]]
 * [[High Availability]]
-* Works with [[Amazon EKS]], or [[Self-Managed Kubernetes]] clusters
+* Works with [[Elastic Kubernetes Service]], or [[Self-Managed Kubernetes]] clusters
 * [[PromQL]] query language for exploring data
 * Data is stored for 150 days, then it is automatically deleted.
 ### Source

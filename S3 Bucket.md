@@ -22,7 +22,7 @@ After a successful upload you will get *HTTP 200* code.
 ### S3 object properties
 [[S3 Object]]
 ### Static website using S3
-1. Enable public access
+[[How to host a static website on S3]]
 ### Related
 [[Simple Storage Service|S3]]
 [[Bucket Policy]]

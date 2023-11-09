@@ -1,11 +1,11 @@
 #Computing 
-Allows you to run [[Batch Workloads]] on [[Elastic Compute Cloud|EC2]], [[Elastic Container Service|ECS]] or [[Fargate]].
+Allows you to run [[Batch Workloads]] on [[Elastic Compute Cloud|EC2]], [[Elastic Container Service|ECS]] or [[Amazon Fargate]].
 ### Main features
 * Simplifies configurating and managing of infrastructure needed for [[Compute|Computing]],
 * Capable of auto-provisioning and [[EC2 Auto-Scaling|Auto-Scaling]] based on number of jobs
 * No installation of batch software needed
 
-### [[Fargate]] or [[Elastic Compute Cloud|EC2]] for [[Compute Environment|Compute Environments]]?
+### [[Amazon Fargate]] or [[Elastic Compute Cloud|EC2]] for [[Compute Environment|Compute Environments]]?
 #### Choose Fargate 
 * when you need Fast start times (<30s).
 * (Recommended for most workloads)
@@ -30,7 +30,7 @@ Depends on your case...
 * [[Elastic Container Service|ECS]] instances are launched into [[Virtual Private Cloud|VPC]] [[Subnet|Subnets]].
 * Most recent and approved [[AMI]] for [[Elastic Container Service|ECS]] by default
 * You can use your own [[AMI]]
-* Leverage [[Fargate]], [[Fargate Spot]], [[Spot EC2|Spot Instances]]
+* Leverage [[Amazon Fargate]], [[Fargate Spot]], [[Spot EC2|Spot Instances]]
 #### Unmanaged
 * You manage everything,
 * [[AMI]] must meet specs,
